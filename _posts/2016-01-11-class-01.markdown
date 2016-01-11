@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Class 1"
+date:   2016-01-10
+categories: notes
+permalink: class-1
+---
+
+## TOPICS
+
+ + Class Introduction
+ + Syllabus Overview
+ + Intro to HTML
+ + Server setup
+
+
+
+## CLASS NOTES
+
+**CSS** - controls how a page looks
+
+**JAVASCRIPT** - controls how a page behaves
+
+**HTML** - provides the essential structure and content of a web page
+
+
+HTML is a markup language. It’s not a programming language because it doesn’t understand logic; it simply contains information about the structure and display of a document. HTML is a type of XML, or Extensible Markup Language, which is just a more general markup language.
+
+# Intro to Tags
+
+HTML is made up of tags. Tags give information about the content and display of text. Tags are simply little pieces of text starting with the less-than sign (<) and ending with the greater-than sign (>).
+
+{% highlight ruby %}
+<p>This is the tag for a paragraph</p>
+{% endhighlight %}
+
+# The Skeletal System
+There are a few main tags that every web page must have. They are <html>,<head>,<title>, and <body>. So the very simplest web page looks like this in text view:
+
+{% highlight ruby %}
+<!DOCTYPE HTML>
+<html>
+ <head>
+	<title>The name of my page</title>
+ </head>
+
+ <body>
+  <p>Some information here.</p>
+ </body>
+</html>
+{% endhighlight %}
+
+
+
+<br>
+
+---
+
+<br>
+
+#Assignment 1: 'Hello World'
+Create a basic one page html document that displays "hello world" and make it live on the web. Save your page as hello-world.html.
+
+Download a code editor, an FTP client, and the CU VPN client. Follow [these instructions](http://creative.colorado.edu/~schaal/web/pdf/creative-server-instructions.pdf) for connecting to the Creative Server. 
+
+Upload your web page to your web directory (web folder inside the public_html directory) on the creative server
+
+The purpose of the project is to set up your off-campus work/coding environment.
