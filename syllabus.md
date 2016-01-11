@@ -16,35 +16,11 @@ Web is a core (required) course that provides a strong foundation and overview o
 
 The class lab sessions will feature a combination of lectures, demonstrations, discussions, open lab sessions and critiques. Students will complete a number of projects geared towards gaining a broad proficiency in new media applications and relating them to an overall understanding of the topics of technology, arts, and media within our society. Selected research, tutorials, and related readings will be expected to contribute to class discussions, projects, and critiques.
 
-# CLASS EXPECTATIONS
+<!-- # CLASS EXPECTATIONS
 + Arrive on time.
 + Cell phones off. 
 + No facebook / email / etc.
-+ NO FOOD IN CLASS
-
-Within ATLAS courses, computers, laptops and mobile computing devices should only be used for class related activities. Checking E-mail, “Facebooking,” working on assignments or projects for other courses, Instant Messaging, gaming and web-surfing are examples of unacceptable classroom behaviors. If you are found to be engaging in these activities during course time, Instructors reserve the right to ask you to leave the classroom.
-
-# REQUIRED RESOURCES
-+ **[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=pd_bxgy_14_2?ie=UTF8&refRID=1B5AWZYDJM3SNQ1ZE8BR)**, Jon Duckett
-+ **[Javascript and Jquery: Interactive Front-End Web Development](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=pd_bxgy_14_2?ie=UTF8&refRID=133274PZK8R0K3M5VWGN)**, Jon Puckett 
-+ **[lynda.colorado.edu](http://lynda.colorado.edu/)**
-
-
-*Additional readings will also be assigned throughout the semester which can be downloaded from the class website. Both texts are available for free on [books 24/7](https://libraries.colorado.edu/wamvalidate?url=http%3A%2F%2F0-library.books24x7.com.libraries.colorado.edu%3A80%2Ftoc.aspx%3Fbookid%3D41781) via UCB Library Login* 
-
-# MATERIALS
-+ **Notebook** - low tech device for taking notes and sketching designs
-+ **Headphones** - required while working on any project that uses audio
-+ **Portable Storage Device (USB jump drive)** - All work must be backed up on a daily basis to avoid any project data being lost. Problems with the technology will not excuse late assignments or projects. *Back up your work every single day before you leave class.*
-
-# ATTENDANCE
-Attendance is mandatory. Please inform me via email if you are going to miss a class. You are allowed 3 absences (not applicable to critique days), every absence after that will result in the lowering of the final letter grade by 10%. Tardiness (arriving more than 10 minutes late or skipping out early) counts as a .333 absence.
-
-Individual projects that are turned in late will result in the grade being lowered for that project. Feedback through the form of critique is also essential; absence from any of the class critiques will result in a drop of one letter grade for that assignment.
-
-
-# CRITIQUES
-I take critiques very seriously. Even if your project is not fully completed, it is required that you come to class to give feedback on your classmates’ projects. It will affect your grade negatively (drop one letter grade) if you do not show up for critique (this includes both days if the critique runs longer than one class period). Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need uploaded, tested and ready. Student computers will be shut off and full participation is expected.
++ NO FOOD IN CLASS -->
 
 # GRADING
 Students will be assessed on conceptual ideas, technical skills, critical thinking, writing, oral presentation, participation and attendance. Student projects will be assessed on conceptual thought, creativity, originality and aesthetic qualities, demonstration of competent use of media tools, and work finished and presented on the due date. The final grade will be averaged from the project work, assignments, attendance, participation, writing and oral presentations. 
@@ -66,16 +42,45 @@ F = 0-59%, unsatisfactory work
 
 *You are required to earn a C letter grade or higher in order to continue course work in the TAM program.*
 
+# REQUIRED RESOURCES
++ **[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=pd_bxgy_14_2?ie=UTF8&refRID=1B5AWZYDJM3SNQ1ZE8BR)**, Jon Duckett
++ **[Javascript and Jquery: Interactive Front-End Web Development](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=pd_bxgy_14_2?ie=UTF8&refRID=133274PZK8R0K3M5VWGN)**, Jon Puckett 
++ **[lynda.colorado.edu](http://lynda.colorado.edu/)**
+
+
+*Additional readings will also be assigned throughout the semester which can be downloaded from the class website. Both texts are available for free on [books 24/7](https://libraries.colorado.edu/wamvalidate?url=http%3A%2F%2F0-library.books24x7.com.libraries.colorado.edu%3A80%2Ftoc.aspx%3Fbookid%3D41781) via UCB Library Login* 
+
+# MATERIALS
++ **Notebook** - low tech device for taking notes and sketching designs
++ **Headphones** - required while working on any project that uses audio
++ **Portable Storage Device (USB jump drive)** - All work must be backed up on a daily basis to avoid any project data being lost. Problems with the technology will not excuse late assignments or projects. *Back up your work every single day before you leave class.*
+
+# ATTENDANCE
+Attendance is mandatory. Please inform me via email if you are going to miss a class. You are allowed 3 absences (not applicable to critique days), every absence after that will result in the lowering of the final letter grade by 10%. Tardiness (arriving more than 10 minutes late or skipping out early) counts as a .333 absence.
+
+Individual projects that are turned in late will result in the grade being lowered for that project. Feedback through the form of critique is also essential; absence from any of the class critiques will result in a drop of one letter grade for that assignment.
+
+# PARTICIPATION
+
+Within ATLAS courses, computers, laptops and mobile computing devices should only be used for class related activities. Checking E-mail, “Facebooking,” working on assignments or projects for other courses, Instant Messaging, gaming and web-surfing are examples of unacceptable classroom behaviors. If you are found to be engaging in these activities during course time, Instructors reserve the right to ask you to leave the classroom.
+
+
+# COMPUTING DEVICES USAGE POLICY
+Laptops and mobile computing devices can be a great asset to learning, but they can also be a source of distraction and actually impair the learning environment. Within ATLAS courses, computers, laptops and mobile computing devices should only be used for class related activities. Checking E-mail, “Facebooking,” working on assignments or projects for other courses, Instant Messaging, gaming and web-surfing are examples of unacceptable classroom behaviors. If you are found to be engaging in these activities during course time, Instructors reserve the right to ask you to leave the classroom.
+
+Additionally, the use of a cell-phones or texting devices during class is expressly verboten (forbidden).
+
+
 # ASSIGNMENTS & READINGS
 Unless otherwise specified, all assignments are due at the beginning of class on assigned due dates. All projects, must be turned in online by linking your project to your class assignment portal. Unless specifically stated, I do not accept homework via email. If your projects and assignments are not posted to your class assignment portal, you will not receive credit for them.
 
 Large projects turned in late will be graded 10% lower for each day that they are late. Small assignments turned in late will be accepted for half credit for one week passed their initial due date. After one week, late small assignments will no longer be accepted for credit.
 
-# FINAL EXAM
+<!-- # FINAL EXAM
 Section 010/011 (9am section) - Thur May 5th 4:30-7pm
 
 Section 020/021 (11am section) - Mon May 2th 1:30-4pm 
-
+ -->
 # LAB POLICY
 Food and drinks are not permitted inside the lab. This is not an open ITS lab, only students who are enrolled in the TAM program should have access to the computers in 113,104, 105, and 225. Do not under any circumstance prop the doors open or let anyone in. If they are authorized to use the lab they will have their buff one cards activated.
 
