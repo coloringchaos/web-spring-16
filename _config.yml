@@ -2,7 +2,8 @@
 title: WEB Spring 2016
 #email: arielle.hein@colorado.edu
 description: Course website for ATLS 2200.
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: '/web-spring-16'
+#url: "web-spring-16.com" # the base hostname & protocol for your site
 
 # github_username:  coloringchaos
 
