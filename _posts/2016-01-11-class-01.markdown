@@ -6,7 +6,7 @@ categories: notes
 permalink: class-1
 ---
 
-## TOPICS
+# TOPICS
 
  + Class Introduction
  + Syllabus Overview
@@ -15,7 +15,7 @@ permalink: class-1
 
 
 
-## CLASS NOTES
+# CLASS NOTES
 
 **CSS** - controls how a page looks
 
@@ -58,7 +58,9 @@ There are a few main tags that every web page must have. They are <html>,<head>,
 
 <br>
 
-#Assignment 1: 'Hello World'
+## HOMEWORK 
+
+#'Hello World'
 Create a basic one page html document that displays "hello world" and make it live on the web. Save your page as hello-world.html.
 
 Download a code editor, an FTP client, and the CU VPN client. Follow [these instructions](http://creative.colorado.edu/~schaal/web/pdf/creative-server-instructions.pdf) for connecting to the Creative Server. 
