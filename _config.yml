@@ -1,7 +1,7 @@
 # Site settings
 title: WEB Spring 2016
 #email: arielle.hein@colorado.edu
-description: Course website for ATLS 2200.
+description: Course website for ATLS 2200. Site buit and maintained by Arielle Hein.
 baseurl: '/web-spring-16'
 #url: "web-spring-16.com" # the base hostname & protocol for your site
 
