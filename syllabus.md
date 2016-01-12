@@ -60,11 +60,6 @@ Attendance is mandatory. Please inform me via email if you are going to miss a c
 
 Individual projects that are turned in late will result in the grade being lowered for that project. Feedback through the form of critique is also essential; absence from any of the class critiques will result in a drop of one letter grade for that assignment.
 
-# PARTICIPATION
-
-Within ATLAS courses, computers, laptops and mobile computing devices should only be used for class related activities. Checking E-mail, “Facebooking,” working on assignments or projects for other courses, Instant Messaging, gaming and web-surfing are examples of unacceptable classroom behaviors. If you are found to be engaging in these activities during course time, Instructors reserve the right to ask you to leave the classroom.
-
-
 # COMPUTING DEVICES USAGE POLICY
 Laptops and mobile computing devices can be a great asset to learning, but they can also be a source of distraction and actually impair the learning environment. Within ATLAS courses, computers, laptops and mobile computing devices should only be used for class related activities. Checking E-mail, “Facebooking,” working on assignments or projects for other courses, Instant Messaging, gaming and web-surfing are examples of unacceptable classroom behaviors. If you are found to be engaging in these activities during course time, Instructors reserve the right to ask you to leave the classroom.
 
@@ -76,11 +71,6 @@ Unless otherwise specified, all assignments are due at the beginning of class on
 
 Large projects turned in late will be graded 10% lower for each day that they are late. Small assignments turned in late will be accepted for half credit for one week passed their initial due date. After one week, late small assignments will no longer be accepted for credit.
 
-<!-- # FINAL EXAM
-Section 010/011 (9am section) - Thur May 5th 4:30-7pm
-
-Section 020/021 (11am section) - Mon May 2th 1:30-4pm 
- -->
 # LAB POLICY
 Food and drinks are not permitted inside the lab. This is not an open ITS lab, only students who are enrolled in the TAM program should have access to the computers in 113,104, 105, and 225. Do not under any circumstance prop the doors open or let anyone in. If they are authorized to use the lab they will have their buff one cards activated.
 
