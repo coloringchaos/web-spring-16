@@ -16,12 +16,6 @@ Web is a core (required) course that provides a strong foundation and overview o
 
 The class lab sessions will feature a combination of lectures, demonstrations, discussions, open lab sessions and critiques. Students will complete a number of projects geared towards gaining a broad proficiency in new media applications and relating them to an overall understanding of the topics of technology, arts, and media within our society. Selected research, tutorials, and related readings will be expected to contribute to class discussions, projects, and critiques.
 
-<!-- # CLASS EXPECTATIONS
-+ Arrive on time.
-+ Cell phones off. 
-+ No facebook / email / etc.
-+ NO FOOD IN CLASS -->
-
 # GRADING
 Students will be assessed on conceptual ideas, technical skills, critical thinking, writing, oral presentation, participation and attendance. Student projects will be assessed on conceptual thought, creativity, originality and aesthetic qualities, demonstration of competent use of media tools, and work finished and presented on the due date. The final grade will be averaged from the project work, assignments, attendance, participation, writing and oral presentations. 
 
@@ -41,6 +35,10 @@ D = 60-69%, below average work <br>
 F = 0-59%, unsatisfactory work
 
 *You are required to earn a C letter grade or higher in order to continue course work in the TAM program.*
+
+# FINALS SCHEDULE
+**Section 010 - Monday, May 2, 1:30-4:00pm <br>
+Section 020 - Thursday, May 5, 4:30-7:00pm**
 
 # REQUIRED RESOURCES
 + **[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=pd_bxgy_14_2?ie=UTF8&refRID=1B5AWZYDJM3SNQ1ZE8BR)**, Jon Duckett
@@ -79,8 +77,6 @@ The instructor of this class reserves the right to show a broad range of course 
 
 # FREEDOM OF SPEECH
 This class is held in an academic university setting and due to the inherent nature of the internet and broad range of topics that your project work will explore it is inevitable that we will come across issues dealing with politics and religion. My role during such discussions will be a facilitator, a mediator, and as impartial as humanly possible. All students are encouraged to participate in open discussion and academic discourse.
-
-
 
 
 

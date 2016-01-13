@@ -7,13 +7,29 @@ permalink: /resources/
 This page will contain a collection of links and learning resources to help you in this class. None of these are required readings, just helpful references. If you find any good links, or feel this page should change in some way, please let me know. I will continually be adding to and updating this page over the course of the semester.
 
 # GENERAL
-
-[Tam Tutor Hours / Equipment Checkout](http://tam.colorado.edu/)<br>
-[ATLAS](http://atlas.colorado.edu/)<br>
-[Creative Server Instructions](http://creative.colorado.edu/~schaal/web/pdf/creative-server-instructions.pdf)
-
++ [Tam Tutor Hours / Equipment Checkout](http://tam.colorado.edu/)
++ [ATLAS](http://atlas.colorado.edu/)
++ [Creative Server Instructions](http://creative.colorado.edu/~schaal/web/pdf/creative-server-instructions.pdf)
 
 # WEB DEVELOPMENT
-[W3C HTML5 Validator](http://validator.w3.org/)<br>
-[w3schools](http://www.w3schools.com/)<br>
-[Google Web Fonts](https://www.google.com/fonts/)<br>
++ [W3C](https://www.w3.org/)
++ [W3C HTML5 Validator](http://validator.w3.org/)
++ [W3C CSS Validator](http://jigsaw.w3.org/css-validator/)
++ [w3schools](http://www.w3schools.com/)
++ [Google Web Fonts](https://www.google.com/fonts/)
++ [Lorem Ipsum](http://lipsum.lipsum.com/)
++ [Hipster Ipsum](http://hipsum.co/)
++ [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
++ [Placehold.it](http://placehold.it/)
+
+# TUTORIALS
++ [Lynda.com](http://lynda.colorado.edu) - HTML5 Essential Training is especially helpful
++ [Code Academy](https://www.codecademy.com/)
+
+# CODE EDITORS
++ [Sublime Text 2](http://www.sublimetext.com/) (OSX, Windows, Linux)
++ [Text Wrangler](http://www.barebones.com/products/TextWrangler/) (OSX)
++ [Coda 2](http://panic.com/coda/) (OSX)
++ [Brackets](http://brackets.io/) (OSX, Windows)
++ [Notepad++](https://notepad-plus-plus.org/) (Windows)
+
