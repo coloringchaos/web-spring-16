@@ -7,15 +7,14 @@ permalink: /timeline/
 This page has a breakdown of the general content that we will cover in each class. Major project due dates are listed on this page, as are test and critique dates. For full assignment details including small weekly assignments and readings, refer to the detailed class notes.
 
 #Week 1
-<!-- [January 11th]({% post_url 2016-01-11-class-01 %}) - class introduction, intro to html -->
-January 11th - class introduction, intro to html
+[January 11th](/web-spring-16/class-1) - class introduction, intro to html
 
-January 13th - servers, FTP & VPN, html tags
+[January 13th](/web-spring-16/class-2) - servers, FTP & VPN, html tags
 
 #Week 2
 *January 18th - NO CLASS*
 
-January 20st - validator, html5 structure, google fonts, font awesome, forms, tables
+[January 20th](/web-spring-16/class-3) - validator, html5 structure, google fonts, font awesome, forms, tables
 
 + **DUE: Assignment 1, Hello World**
 
