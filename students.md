@@ -6,46 +6,47 @@ permalink: /students/
 
 This page contains links to the web portals of all students enrolled in the class. 
 
-# Section 1 (9-10:50am)
-Cici Beck
-Alisha Brenda
-Sebastian Cabeza
-Joe Graff
-Taylor Hershberger
-Mackenzie Hickey
-Joyce Im
-Paige Keller
-Alex Mackie
-Brittaney Martell
-Shane Millard
-Ryan O'Dea
-Bryan O'Hagan
-Paris Paquette
-Tyler Porteous
-Kimberly Preston
-Shelby Pumphrey
-Ariel Riggan
-Lily Summers
-Alex Truesdale
-Barrett Vickery
+# Section 010 (9-10:50am)
+Cici Beck<br>
+Alisha Brenda<br>
+Sebastian Cabeza<br>
+Joe Graff<br>
+Taylor Hershberger<br>
+Mackenzie Hickey<br>
+Joyce Im<br>
+Paige Keller<br>
+Alex Mackie<br>
+Brittaney Martell<br>
+Shane Millard<br>
+Ryan O'Dea<br>
+Bryan O'Hagan<br>
+Paris Paquette<br>
+Tyler Porteous<br>
+Kimberly Preston<br>
+Shelby Pumphrey<br>
+Ariel Riggan<br>
+Lily Summers<br>
+Alex Truesdale<br>
+Barrett Vickery<br>
 
 
 
-# Section 2 (11-12:50pm)
-Mallory Allen
-Carolyn Castanon
-Lorenzo Cordova
-Morgan Edwards
-Jordan Halbleib
-Samuel Henry
-Paris Hogan
-Ana Holland
-Devon Holt
-Jesse Knori
-Jessie Lenahan
-Xena Mansfield
-Luke Mause
-Austin Mitsch
-Alexandre Roy
-Nicholas Tuttle
-Natalie Walter
+# Section 020 (11-12:50pm)
+Mallory Allen<br>
+Carolyn Castanon<br>
+Jimmy Cordova<br>
+Morgan Edwards<br>
+Jordan Halbleib<br>
+Samuel Henry<br>
+Paris Hogan<br>
+Ana Holland<br>
+Devon Holt<br>
+Jesse Knori<br>
+Jessie Lenahan<br>
+Xena Mansfield<br>
+Luke Mause<br>
+Austin Mitsch<br>
+Alex Roy<br>
+Nick Tuttle<br>
+Natalie Walter<br>
+
