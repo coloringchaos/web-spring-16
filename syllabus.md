@@ -24,7 +24,7 @@ In order to counteract grade inflation, I do not give out A’s easily. If you t
 Grades will be determined according to the following breakdown:
 
 **Large Projects: 60% (6 in total worth 10% each)**<br>
-**Small Homework Assignments: 20%** (Approximately 20 assignments worth 1% each)<br>
+**Small Homework Assignments: 20%**<br>
 **Midterm Exam: 10%**<br>
 **Final Exam: 10%**
 
