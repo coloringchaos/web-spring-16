@@ -20,9 +20,9 @@ This page has a breakdown of the general content that we will cover in each clas
 + **READ:** [As We May Think, by Vannevar Bush](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) and [Long Live the Web, by Tim Berners-Lee](http://ariellehein.com/readings/Berners-Lee-Long-Live-The-Web.pdf)
 
 #Week 3
-January 25th - html5 structure, html5 media, html review
+January 25th - html5 structure, html review, introduction to css
 
-January 27th - handcode test, introduction to css 
+January 27th - handcode test, html5 media
 
 + **DUE: Assignment 2, Assignment Portal**
 + **READ: Duckett HTML & CSS: chapters 1-5, 8**
