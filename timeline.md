@@ -17,21 +17,22 @@ This page has a breakdown of the general content that we will cover in each clas
 [January 20th](/web-spring-16/class-3) - validator, html5 structure, google fonts, font awesome, forms, tables
 
 + **DUE: Assignment 1, Hello World**
++ **READ:** [As We May Think, by Vannevar Bush](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) and [Long Live the Web, by Tim Berners-Lee](http://ariellehein.com/readings/Berners-Lee-Long-Live-The-Web.pdf)
 
 #Week 3
-January 25th - html review, html5 media
+January 25th - html5 structure, html5 media, html review
 
-January 27th - handcode test, introduction to css
+January 27th - handcode test, introduction to css 
 
 + **DUE: Assignment 2, Assignment Portal**
++ **READ: Duckett HTML & CSS: chapters 1-5, 8**
 
 #Week 4
 February 1st - css syntax, color schemes
 
-+ **DUE: Project 1, Hypertext Narrative**
-
-
 February 3rd - css layout
+
++ **DUE: Project 1, Hypertext Narrative**
 
 #Week 5
 February 8th - css floats

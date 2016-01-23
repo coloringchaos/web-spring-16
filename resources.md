@@ -17,9 +17,9 @@ This page will contain a collection of links and learning resources to help you 
 + [W3C CSS Validator](http://jigsaw.w3.org/css-validator/)
 + [w3schools](http://www.w3schools.com/)
 + [Google Web Fonts](https://www.google.com/fonts/)
++ [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 + [Lorem Ipsum](http://lipsum.lipsum.com/)
 + [Hipster Ipsum](http://hipsum.co/)
-+ [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 + [Placehold.it](http://placehold.it/)
 
 # TUTORIALS
