@@ -41,12 +41,16 @@ F = 0-59%, unsatisfactory work
 Section 020 - Thursday, May 5, 4:30-7:00pm**
 
 # REQUIRED RESOURCES
-+ **[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=pd_bxgy_14_2?ie=UTF8&refRID=1B5AWZYDJM3SNQ1ZE8BR)**, Jon Duckett
-+ **[Javascript and Jquery: Interactive Front-End Web Development](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=pd_bxgy_14_2?ie=UTF8&refRID=133274PZK8R0K3M5VWGN)**, Jon Puckett 
+<!-- + **[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=pd_bxgy_14_2?ie=UTF8&refRID=1B5AWZYDJM3SNQ1ZE8BR)**, Jon Duckett - [books 24/7](http://0-library.books24x7.com.libraries.colorado.edu/toc.aspx?bookid=41781)
++ **[Javascript and Jquery: Interactive Front-End Web Development](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=pd_bxgy_14_2?ie=UTF8&refRID=133274PZK8R0K3M5VWGN)**, Jon Duckett  (free access on [books 24/7](http://0-www.books24x7.com.libraries.colorado.edu/marc.asp?bookid=58167))
++ **[lynda.colorado.edu](http://lynda.colorado.edu/)** -->
+
++ **HTML and CSS: Design and Build Websites**, Jon Duckett - [amazon](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=pd_bxgy_14_2?ie=UTF8&refRID=1B5AWZYDJM3SNQ1ZE8BR) or [books 24/7](http://0-library.books24x7.com.libraries.colorado.edu/toc.aspx?bookid=41781)
++ **Javascript and Jquery: Interactive Front-End Web Development**, Jon Duckett  - [amazon](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=pd_bxgy_14_2?ie=UTF8&refRID=133274PZK8R0K3M5VWGN) or [books 24/7](http://0-library.books24x7.com.libraries.colorado.edu/toc.aspx?bookid=58167)
 + **[lynda.colorado.edu](http://lynda.colorado.edu/)**
 
 
-*Additional readings will also be assigned throughout the semester which can be downloaded from the class website. Both texts are available for free on [books 24/7](https://libraries.colorado.edu/wamvalidate?url=http%3A%2F%2F0-library.books24x7.com.libraries.colorado.edu%3A80%2Ftoc.aspx%3Fbookid%3D41781) via UCB Library Login* 
+<!-- *Additional readings will also be assigned throughout the semester which can be downloaded from the class website. Both texts are available for free on [books 24/7](https://libraries.colorado.edu/wamvalidate?url=http%3A%2F%2F0-library.books24x7.com.libraries.colorado.edu%3A80%2Ftoc.aspx%3Fbookid%3D41781) via UCB Library Login*  -->
 
 # MATERIALS
 + **Notebook** - low tech device for taking notes and sketching designs
