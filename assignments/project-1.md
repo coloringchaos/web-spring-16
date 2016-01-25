@@ -8,6 +8,8 @@ Hypertext fiction is a genre of electronic literature, characterized by the use 
 
 Choose a popular children’s story, and without altering the text, redesign it as a non-linear narrative. Divide the story in multiple parts and place each part into a html page. Each page should have at 2-3 links to other segments. Infinite or Ending?
 
+Project 1 is worth 10% of your grade.
+
 ####  **Project 1 is due before class on FEB 8th**
 
 # Parameters
