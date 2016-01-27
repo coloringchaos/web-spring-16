@@ -26,7 +26,7 @@ Ryan O'Dea<br>
 [Ariel Riggan](http://creative.colorado.edu/~arri8127)<br>
 [Lily Summers](http://creative.colorado.edu/~lisu6207/)<br>
 [Alex Truesdale](http://creative.colorado.edu/~altr7532/)<br>
-Barrett Vickery<br>
+[Barrett Vickery](http://creative.colorado.edu/~bavi4882/)<br>
 
 
 
@@ -48,5 +48,5 @@ Xena Mansfield<br>
 [Austin Mitsch](http://creative.colorado.edu/~aumi5427/)<br>
 [Alex Roy](http://creative.colorado.edu/~alro4560/)<br>
 [Nick Tuttle](http://creative.colorado.edu/~nitu5102/)<br>
-Natalie Walter<br>
+[Natalie Walter](http://creative.colorado.edu/~nawa0900/)<br>
 
