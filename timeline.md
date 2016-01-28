@@ -22,13 +22,13 @@ This page has a breakdown of the general content that we will cover in each clas
 #Week 3
 *January 25th - NO CLASS*
 
-January 27th - handcode test, html5 structure, html5 media, html review, introduction to css
+January 27th - html5 structure, html5 media, html review, introduction to css
 
 + **Due: [Assignment 2, Assignment Portal (index.html)](/web-spring-16/assignment-2)**
 + **Read: Duckett HTML & CSS: chapters 1-5, 8**
 
 #Week 4
-February 1st - css syntax, color schemes
+February 1st - **handcode test**, css syntax, selectors, color
 
 + **Due: [Assignment 3, HTML Structure & Practice](/web-spring-16/assignment-3)**
 + **Watch: [CSS Fundamentals](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)**
