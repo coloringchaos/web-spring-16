@@ -8,12 +8,12 @@ This page contains links to the web portals of all students enrolled in the clas
 
 # Section 010 (9-10:50am)
 [Cece Beck](http://creative.colorado.edu/~cabe9711)<br>
-Alisha Brenda<br>
+[Alisha Brenda](http://creative.colorado.edu/~albe3753/)<br>
 [Sebastian Cabeza](http://creative.colorado.edu/~seca8943/)<br>
 [Joe Graff](http://creative.colorado.edu/~jogr2263)<br>
 [Taylor Hershberger](http://creative.colorado.edu/~tahe2849/)<br>
 [Mackenzie Hickey](http://creative.colorado.edu/~mahi8826/)<br>
-Joyce Im<br>
+[Joyce Im](http://creative.colorado.edu/~jiim0359/)<br>
 [Paige Keller](http://creative.colorado.edu/~pake0575/)<br>
 [Alex Mackie](http://creative.colorado.edu/~alma4388/)<br>
 [Brittaney Martell](http://creative.colorado.edu/~brma9976)<br>
@@ -40,7 +40,7 @@ Ryan O'Dea<br>
 [Paris Hogan](http://creative.colorado.edu/~paho3043/)<br>
 [Ana Holland](http://creative.colorado.edu/~anho7054/)<br>
 [Devon Holt](http://creative.colorado.edu/~deho6632/)<br>
-Amanda Knapp<br>
+[Amanda Knapp](http://creative.colorado.edu/~amkn7318/)<br>
 [Jesse Knori](http://creative.colorado.edu/~jekn5109/)<br>
 [Jessie Lenahan](http://creative.colorado.edu/~jele0758/)<br>
 Xena Mansfield<br>
