@@ -8,7 +8,7 @@ This page contains links to the web portals of all students enrolled in the clas
 
 # Section 010 (9-10:50am)
 [Cece Beck](http://creative.colorado.edu/~cabe9711)<br>
-[Alisha Brenda](http://creative.colorado.edu/~albe3753/)<br>
+[Alisha Benda](http://creative.colorado.edu/~albe3753/)<br>
 [Sebastian Cabeza](http://creative.colorado.edu/~seca8943/)<br>
 [Joe Graff](http://creative.colorado.edu/~jogr2263)<br>
 [Taylor Hershberger](http://creative.colorado.edu/~tahe2849/)<br>
