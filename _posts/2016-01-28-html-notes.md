@@ -149,6 +149,8 @@ To use the video element, you should save a .mp4 and .ogg video file in the same
 </video>
 {% endhighlight %}
 
+The reason you include two different sources is to account for different browser support. See more about browser support for the `<video>` element at [w3school](http://www.w3schools.com/html/html5_video.asp).
+
 The **controls** attribute adds video controls, like play, pause, and volume.
 
 It is a good idea to always include **width** and **height** attributes.
