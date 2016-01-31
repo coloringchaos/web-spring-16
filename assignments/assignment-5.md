@@ -10,4 +10,4 @@ Modify a currently existing .html page that you have created by implementing an 
 
 Post this exercise to your assignment portal as a **new link** indicating that the page has an external stylesheet attached. Submit the url on Edmodo.
 
-####  **Assignment 5 is due before class on FEB 10th**
+####  **Assignment 5 is due before class on FEB 15th**

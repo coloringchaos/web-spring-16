@@ -10,7 +10,7 @@ Choose a popular children’s story, and without altering the text, redesign it 
 
 Project 1 is worth 10% of your grade.
 
-####  **Project 1 is due before class on FEB 8th**
+####  **Project 1 is due before class on FEB 10th**
 
 # Parameters
 + utilize html5 structure

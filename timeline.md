@@ -40,18 +40,18 @@ February 3rd - css layouts, boxes, grids
 #Week 5
 February 8th - css
 
-+ **Due: [Project 1, Hypertext Narrative](/web-spring-16/project-1)**
-
 February 10th - wireframes, web design, graphics, optimization
 
-+ **Due: [Assignment 5, External CSS](/web-spring-16/assignment-5)**
++ **Due: [Project 1, Hypertext Narrative](/web-spring-16/project-1)**
 
 #Week 6
 February 15th - web design process & workflow
 
-+ **Due: Assignment 6, Website Design Review**
++ **Due: [Assignment 5, External CSS](/web-spring-16/assignment-5)**
 
 February 17th - web design, psd comps
+
++ **Due: Assignment 6, Website Design Review**
 
 #Week 7
 February 23rd - web development
