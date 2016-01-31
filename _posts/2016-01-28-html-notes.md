@@ -6,7 +6,7 @@ categories: notes
 permalink: html-notes
 ---
 
-#[HTML5 Notes](http://creative.colorado.edu/~schaal/web/pdf/web-html5.pdf)
+# [HTML5 Notes](http://creative.colorado.edu/~schaal/web/pdf/web-html5.pdf)
 
 HTML, CSS and JavaScript are the core languages of the web - forming the backbone of all websites and web content. CSS controls how a page looks, JavaScript controls how a page behaves, and HTML provides the essential structure and content of a web page.
 
@@ -29,7 +29,7 @@ An element represents some kind of structure or semantics and generally consists
 <p>This is the content of the paragraph element.</p>
 {% endhighlight %}
 
-#HTML attributes
+# HTML attributes
 Some tags also have attributes associated with them, attributes define a property for an element. They appear in the start tag.
 
 {% highlight html %}
@@ -65,7 +65,7 @@ Every page and every image on a website has a ***URL*** (or Uniform Resource Loc
 + Sometimes when you go to a URL, there is no file listed in the URL 
 + For example, we type: `colorado.edu` instead of `colorado.edu/index.html`
 
-#index.html
+# index.html
 This is default HTML file that appears in a browser when a user invokes a URL, it is the main homepage of a site. Every directory should have an index.html page for usability and security purposes.
 
 # Links
@@ -79,14 +79,14 @@ Links are created using the `<a>` element; users can click on anything between t
 
 The `<a>` tag requires an attribute of ‘href’, which is short for hyperlink reference — this is where you put the URL of the link. You can link to a page on your own site or to an external page.
 
-#Absolute Links
+# Absolute Links
 A hyperlink containing a full URL, which includes all the information needed to find a particular site, page or document or other addressable item on the Internet. This information includes the protocol to use, such as HTTP (Hypertext Transfer Protocol) or FTP (File Transfer Protocol).
 
 {% highlight html %}
 <a href="http://www.colorado.edu/">Colorado.edu</a>
 {% endhighlight %}
 
-#Relative Links
+# Relative Links
 Used when linking to pages within your own website. they provide a shorthand way of telling the browser where to find your files. If you are linking to a page within your own site, it is best to use relative links rather than absolute links or qualified URLS.
 
 {% highlight html %}
@@ -103,7 +103,7 @@ To move OUT a directory, use the following notation:  `../`
 ../../index.html
 {% endhighlight %}
 
-#Google Web Fonts
+# Google Web Fonts
 Visit [google.com/fonts](https://www.google.com/fonts) and choose a font to use, then click the middle button (the quick use option). Follow their directions:
 
 1. Choose the style you want
@@ -125,7 +125,7 @@ And you will add the css within a `<style>` tag on the html page or on an extern
 </style>
 {% endhighlight %}
 
-#Font Awesome Icons
+# Font Awesome Icons
 Paste the following code into the `<head>` section of your site's HTML. This link can also be found on the [Get Started Page](http://fortawesome.github.io/Font-Awesome/get-started/) on Font Awesome.
 {% highlight html %}
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -136,7 +136,7 @@ Then, choose what icon you want to use and just copy and paste the code in your 
 <i class="fa fa-fort-awesome"></i>
 {% endhighlight %}
 
-#HTML video tag
+# HTML video tag
 The `<video>` tag is a new addition in HTML5; prior to this, there was no standard for showing videos on a web page. Before HTML5, videos could only be played with a plug-in (like flash). The `<video>` element specifies a standard way to embed a video in a web page.
 
 To use the video element, you should save a .mp4 and .ogg video file in the same directory where your .html page is saved. Then you can create a relative link to the file (like in the code below). 
@@ -149,14 +149,17 @@ To use the video element, you should save a .mp4 and .ogg video file in the same
 </video>
 {% endhighlight %}
 
-The controls attribute adds video controls, like play, pause, and volume.
+The **controls** attribute adds video controls, like play, pause, and volume.
 
-It is a good idea to always include width and height attributes.
+It is a good idea to always include **width** and **height** attributes.
 
 If height and width are not set, the browser does not know the size of the video. The effect will be that the page will change (or flicker) while the video loads.
 
 
-#HTML audio tag
+# HTML audio tag
+The `<audio>` tag is very similar to the video tag. To use this element, save an audio file (.mp3 and .ogg) to the same directory where your .html page is saved.
+
+
 {% highlight html %}
 <audio controls>
 	<source src="audio.ogg" type="audio/ogg">
