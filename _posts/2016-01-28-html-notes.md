@@ -162,8 +162,8 @@ The `<audio>` tag is very similar to the video tag. To use this element, save an
 
 {% highlight html %}
 <audio controls>
-	<source src="audio.ogg" type="audio/ogg">
 	<source src="audio.mp3" type="audio/mpeg">
+	<source src="audio.ogg" type="audio/ogg">
 	Your browser does not support the audio tag.
 </audio>
 {% endhighlight %}
