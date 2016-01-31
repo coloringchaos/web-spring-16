@@ -137,10 +137,14 @@ Then, choose what icon you want to use and just copy and paste the code in your 
 {% endhighlight %}
 
 #HTML video tag
+The `<video>` tag is a new addition in HTML5; prior to this, there was no standard for showing videos on a web page. Before HTML5, videos could only be played with a plug-in (like flash). The `<video>` element specifies a standard way to embed a video in a web page.
+
+To use the video element, you should save a .mp4 and .ogg video file in the same directory where your .html page is saved. Then you can create a relative link to the file (like in the code below). 
+
 {% highlight html %}
 <video width="320" height="240" controls>
-	<source src="movie.mp4" type="video/mp4">
-	<source src="movie.ogg" type="video/ogg">
+	<source src="my-video.mp4" type="video/mp4">
+	<source src="my-video.ogg" type="video/ogg">
 	Your browser does not support the video tag.
 </video>
 {% endhighlight %}
