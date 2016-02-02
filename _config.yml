@@ -10,4 +10,5 @@ baseurl: '/web-spring-16'
 
 # Build settings
 markdown: kramdown
+parse_block_html: true
 permalink: /:title
