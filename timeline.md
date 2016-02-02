@@ -7,7 +7,6 @@ permalink: /timeline/
 This page has a breakdown of the general content that we will cover in each class. Major project due dates are listed on this page, as are assignments, test and critique dates. This schedule is subject to change. 
 
 #Week 1
-
 [January 11th](/web-spring-16/class-1) - class introduction, intro to html
 
 [January 13th](/web-spring-16/class-2) - servers, FTP & VPN, html tags
