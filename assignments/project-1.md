@@ -15,7 +15,6 @@ Project 1 is worth 10% of your grade.
 # Parameters
 + utilize html5 structure
 + save the starting page as "hypertext-01.html"
-+ figure "title card" using placehold.it
 + google fonts
 + font awesome icons
 + validate each page at validator.w3.org (both html and css)
