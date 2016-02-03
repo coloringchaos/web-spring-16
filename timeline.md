@@ -33,7 +33,7 @@ February 1st - **handcode test**, css syntax, selectors, color
 + **Due: [Assignment 3, HTML Structure & Practice](/web-spring-16/assignment-3)**
 + **Watch: [CSS Fundamentals](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)**
 
-February 3rd - css layouts, boxes, grids
+February 3rd - css layouts, boxes, grids - follow along with [these examples](https://github.com/coloringchaos/atls2200-examples)
 
 + **Due: [Assignment 4, Sitemap](/web-spring-16/assignment-4)**
 
