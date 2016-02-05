@@ -4,7 +4,7 @@ title: Assignment 3
 permalink: /assignment-3/
 ---
 
-#HTML Structure & Practice
+# HTML Structure & Practice
 
 1. Create a new .html page featuring an image gallery with at least six different images. Each should be contained within a `<figure>` element and also includes a `<figcaption>` element. Please include a `<h1>` at the top of the page with appropriate, related content.
 

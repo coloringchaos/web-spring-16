@@ -4,7 +4,7 @@ title: Assignment 4
 permalink: /assignment-4/
 ---
 
-#Site Map
+# Site Map
 
 1. Implement the file structure we went over in class on Monday, with all of your work inside a folder called 'web'. Within this web directory, there should be two directories called 'assignments' and 'projects'. So far, all of the work we have done this semester should live inside of 'assignments'. **Fix your file structure and update any broken links on your pages.**
 

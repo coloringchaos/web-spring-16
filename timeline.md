@@ -37,14 +37,14 @@ February 3rd - css layouts, boxes, grids - follow along with [these examples](ht
 
 + **Due: [Assignment 4, Sitemap](/web-spring-16/assignment-4)**
 
-#Week 5
+# Week 5
 February 8th - css
 
 February 10th - wireframes, web design, graphics, optimization
 
 + **Due: [Project 1, Hypertext Narrative](/web-spring-16/project-1)**
 
-#Week 6
+# Week 6
 February 15th - web design process & workflow
 
 + **Due: [Assignment 5, External CSS](/web-spring-16/assignment-5)**
@@ -53,25 +53,25 @@ February 17th - web design, psd comps
 
 + **Due: Assignment 6, Website Design Review**
 
-#Week 7
+# Week 7
 February 23rd - web development
 
 + **DUE: Project 2, CSS Reskin**
 
 February 25th - css transformations and transitions
 
-#Week 8
+# Week 8
 March 1st - responsive web design
 
 March 3rd - responsive media
 
-#Week 9
+# Week 9
 March 8th - review
 
 March 10th - review and in-class work time <br>
 ***IN CLASS ASSESSMENT: Midterm Test***
 
-#Week 10
+# Week 10
 
 March 15th - midterm critique
 
@@ -79,36 +79,36 @@ March 15th - midterm critique
 
 March 17th - midterm critique
 
-#Week 11 - SPRING BREAK
+# Week 11 - SPRING BREAK
 *March 22nd- NO CLASS*
 
 *March 24th - NO CLASS*
 
-#Week 12
+# Week 12
 March 29th - javascript
 
 March 31st - javascript
 
-#Week 13
+# Week 13
 April 5th - javascript
 
 April 7th - javascript
 
 + **DUE: Project 4**
 
-#Week 14
+# Week 14
 April 12th - javascript
 
 April 14th - javascript
 
 + **DUE: Project 5**
 
-#Week 15
+# Week 15
 April 19th - APIs
 
 April 21st - web frameworks
 
-#Week 16
+# Week 16
 April 26th - review
 
 + **DUE: Project 6**
@@ -116,7 +116,7 @@ April 26th - review
 April 28th - review and in-class work time<br>
 ***IN CLASS ASSESSMENT: Web Practicum***
 
-#FINALS SCHEDULE
+# FINALS SCHEDULE
 Section 010 - Monday, May 2, 1:30-4:00pm
 
 Section 020 - Thursday, May 5, 4:30-7:00pm

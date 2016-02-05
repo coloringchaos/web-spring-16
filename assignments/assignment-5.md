@@ -4,7 +4,7 @@ title: Assignment 5
 permalink: /assignment-5/
 ---
 
-#External CSS
+# External CSS
 
 Modify a currently existing .html page that you have created by implementing an external .css stylesheet. Move all of that page (or pages) css into an external stylesheet and then link that .css file back to your .html page. 
 
