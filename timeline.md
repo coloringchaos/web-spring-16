@@ -38,27 +38,29 @@ February 3rd - css layouts, boxes, grids - follow along with [these examples](ht
 + **Due: [Assignment 4, Sitemap](/web-spring-16/assignment-4)**
 
 # Week 5
-February 8th - css
+February 8th - css review, in-class work time
 
 February 10th - wireframes, web design, graphics, optimization
 
 + **Due: [Project 1, Hypertext Narrative](/web-spring-16/project-1)**
 
 # Week 6
-February 15th - web design process & workflow
+February 15th - web design
 
++ **Read: Duckett HTML & CSS: chapters 10-17 (read 17 first)**
 + **Due: [Assignment 5, External CSS](/web-spring-16/assignment-5)**
 
-February 17th - web design, psd comps
+February 17th - psd comps for web
 
++ **Watch: [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)**
 + **Due: Assignment 6, Website Design Review**
 
 # Week 7
-February 23rd - web development
-
-+ **DUE: Project 2, CSS Reskin**
+February 23rd - web design and development
 
 February 25th - css transformations and transitions
+
++ **DUE: Project 2, CSS Reskin**
 
 # Week 8
 March 1st - responsive web design
@@ -68,7 +70,7 @@ March 3rd - responsive media
 # Week 9
 March 8th - review
 
-March 10th - review and in-class work time <br>
+March 10th - midterm test and in-class work time <br>
 ***IN CLASS ASSESSMENT: Midterm Test***
 
 # Week 10

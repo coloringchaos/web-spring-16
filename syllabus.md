@@ -36,31 +36,32 @@ F = 0-59%, unsatisfactory work
 
 *You are required to earn a C letter grade or higher in order to continue course work in the TAM program.*
 
+# EXTRA CREDIT
+There will be opportunities to earn extra credit throughout the semester. The combined maximum benefit of extra credit is limited to one letter step (e.g. B+ to A-, C- to C). Extra Credit is a useful tool when used in moderation (to make up for an absence or a missed assignment), but it is not intended to be used in place of a student exhibiting mastery in the subject matter of a course. Extra credit assignments will directly relate to the content and practices of the course.
+
+
 # FINALS SCHEDULE
 **Section 010 - Monday, May 2, 1:30-4:00pm <br>
 Section 020 - Thursday, May 5, 4:30-7:00pm**
 
-# REQUIRED RESOURCES
-<!-- + **[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=pd_bxgy_14_2?ie=UTF8&refRID=1B5AWZYDJM3SNQ1ZE8BR)**, Jon Duckett - [books 24/7](http://0-library.books24x7.com.libraries.colorado.edu/toc.aspx?bookid=41781)
-+ **[Javascript and Jquery: Interactive Front-End Web Development](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=pd_bxgy_14_2?ie=UTF8&refRID=133274PZK8R0K3M5VWGN)**, Jon Duckett  (free access on [books 24/7](http://0-www.books24x7.com.libraries.colorado.edu/marc.asp?bookid=58167))
-+ **[lynda.colorado.edu](http://lynda.colorado.edu/)** -->
 
+# REQUIRED RESOURCES
 + **HTML and CSS: Design and Build Websites**, Jon Duckett - [amazon](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=pd_bxgy_14_2?ie=UTF8&refRID=1B5AWZYDJM3SNQ1ZE8BR) or [pdf](http://www.wufai.edu.tw/information_technology_center/datasheet/HTML%20and%20CSS%20design%20and%20build%20websites.pdf)
 + **Javascript and Jquery: Interactive Front-End Web Development**, Jon Duckett  - [amazon](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=pd_bxgy_14_2?ie=UTF8&refRID=133274PZK8R0K3M5VWGN) or [books 24/7](http://0-library.books24x7.com.libraries.colorado.edu/toc.aspx?bookid=58167)
 + **[lynda.colorado.edu](http://lynda.colorado.edu/)**
 
-
-<!-- *Additional readings will also be assigned throughout the semester which can be downloaded from the class website. Both texts are available for free on [books 24/7](https://libraries.colorado.edu/wamvalidate?url=http%3A%2F%2F0-library.books24x7.com.libraries.colorado.edu%3A80%2Ftoc.aspx%3Fbookid%3D41781) via UCB Library Login*  -->
 
 # MATERIALS
 + **Notebook** - low tech device for taking notes and sketching designs
 + **Headphones** - required while working on any project that uses audio
 + **Portable Storage Device (USB jump drive)** - All work must be backed up on a daily basis to avoid any project data being lost. Problems with the technology will not excuse late assignments or projects. *Back up your work every single day before you leave class.*
 
+
 # ATTENDANCE
 Attendance is mandatory. Please inform me via email if you are going to miss a class. You are allowed 3 absences (not applicable to critique days), every absence after that will result in the lowering of the final letter grade by 10%. Tardiness (arriving more than 10 minutes late or skipping out early) counts as a .333 absence.
 
 Individual projects that are turned in late will result in the grade being lowered for that project. Feedback through the form of critique is also essential; absence from any of the class critiques will result in a drop of one letter grade for that assignment.
+
 
 # COMPUTING DEVICES USAGE POLICY
 Laptops and mobile computing devices can be a great asset to learning, but they can also be a source of distraction and actually impair the learning environment. Within ATLAS courses, computers, laptops and mobile computing devices should only be used for class related activities. Checking E-mail, “Facebooking,” working on assignments or projects for other courses, Instant Messaging, gaming and web-surfing are examples of unacceptable classroom behaviors. If you are found to be engaging in these activities during course time, Instructors reserve the right to ask you to leave the classroom.
@@ -73,11 +74,14 @@ Unless otherwise specified, all assignments are due at the beginning of class on
 
 Large projects turned in late will be graded 10% lower for each day that they are late. Small assignments turned in late will be accepted for half credit for one week passed their initial due date. After one week, late small assignments will no longer be accepted for credit.
 
+
 # LAB POLICY
 Food and drinks are not permitted inside the lab. This is not an open ITS lab, only students who are enrolled in the TAM program should have access to the computers in 113,104, 105, and 225. Do not under any circumstance prop the doors open or let anyone in. If they are authorized to use the lab they will have their buff one cards activated.
 
+
 # COURSE CONTENT
 The instructor of this class reserves the right to show a broad range of course materials, some of which assume the audience to be adult in age and demeanor. should a student feel offended by something they have seen or heard, it would appreciated, but not required, to stay to be part of the dialogue to offer your perspective. however if the student feels that they cannot stay, they are welcome to leave the classroom as discretely as possible.
+
 
 # FREEDOM OF SPEECH
 This class is held in an academic university setting and due to the inherent nature of the internet and broad range of topics that your project work will explore it is inevitable that we will come across issues dealing with politics and religion. My role during such discussions will be a facilitator, a mediator, and as impartial as humanly possible. All students are encouraged to participate in open discussion and academic discourse.
