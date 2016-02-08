@@ -49,6 +49,7 @@ February 15th - web design
 
 + **Read: Duckett HTML & CSS: chapters 10-17 (read 17 first)**
 + **Due: [Assignment 5, External CSS](/web-spring-16/assignment-5)**
++ Extra Credit: [Bio-Art, Video Mapping & HCI](/web-spring-16/extracredit-1.md)
 
 February 17th - psd comps for web
 
