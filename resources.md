@@ -21,12 +21,23 @@ This page will contain a collection of links and learning resources to help you 
 + [Lorem Ipsum](http://lipsum.lipsum.com/)
 + [Hipster Ipsum](http://hipsum.co/)
 + [Placehold.it](http://placehold.it/)
++ [Code Pen](http://codepen.io/)
+
 
 # TUTORIALS
-+ [HTML Essential Training](http://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html)
-+ [CSS Fundamentals](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)
 + [Lynda.com](http://lynda.colorado.edu)
 + [Code Academy](https://www.codecademy.com/)
+
+# HTML
++ [HTML5 Doctor](http://html5doctor.com/)
++ [HTML Essential Training](http://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html)
+
+# CSS
++ [CSS Fundamentals](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)
++ [MDN Getting Started with CSS Tutorials](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
++ [CSS Snippets on CSS Tricks](https://css-tricks.com/snippets/)
++ [CSS on Quirks Mode](http://www.quirksmode.org/css/)
++ [CSS3 Generator](http://css3generator.com/)
 
 # CODE EDITORS
 + [Sublime Text 2](http://www.sublimetext.com/) (OSX, Windows, Linux)
