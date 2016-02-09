@@ -57,66 +57,66 @@ February 17th - psd comps for web
 + **Due: Assignment 6, Website Design Review**
 
 # Week 7
-February 23rd - web design and development
+February 22rd - web design and development
 
-February 25th - css transformations and transitions
+February 24th - css transformations and transitions
 
 + **DUE: Project 2, CSS Reskin**
 
 # Week 8
-March 1st - responsive web design
+February 29th - responsive web design
 
-March 3rd - responsive media
+March 2nd - responsive media
 
 # Week 9
-March 8th - review
+March 7th - review
 
-March 10th - midterm test and in-class work time <br>
+March 9th - midterm test and in-class work time <br>
 ***IN CLASS ASSESSMENT: Midterm Test***
 
 # Week 10
 
-March 15th - midterm critique
+March 14th - midterm critique
 
 + **DUE: Project 3, Net Art / Self Portrait**
 
-March 17th - midterm critique
+March 16th - midterm critique
 
 # Week 11 - SPRING BREAK
-*March 22nd- NO CLASS*
+*March 21st- NO CLASS*
 
-*March 24th - NO CLASS*
+*March 23rd - NO CLASS*
 
 # Week 12
-March 29th - javascript
+March 28th - javascript
 
-March 31st - javascript
+March 30th - javascript
 
 # Week 13
-April 5th - javascript
+April 4th - javascript
 
-April 7th - javascript
+April 6th - javascript
 
 + **DUE: Project 4**
 
 # Week 14
-April 12th - javascript
+April 11th - javascript
 
-April 14th - javascript
+April 13th - javascript
 
 + **DUE: Project 5**
 
 # Week 15
-April 19th - APIs
+April 18th - APIs
 
-April 21st - web frameworks
+April 20th - web frameworks
 
 # Week 16
-April 26th - review
+April 25th - review
 
 + **DUE: Project 6**
 
-April 28th - review and in-class work time<br>
+April 27th - review and in-class work time<br>
 ***IN CLASS ASSESSMENT: Web Practicum***
 
 # FINALS SCHEDULE
