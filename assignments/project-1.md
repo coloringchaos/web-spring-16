@@ -19,6 +19,7 @@ Project 1 is worth 10% of your grade.
 + font awesome icons
 + validate each page at validator.w3.org (both html and css)
 + upload the pages to a dedicated 'hypertext' directory on your creative server
++ use your own graphics and imagery, or cite your sources
 
 # Examples
 The examples shown below are early, influential works within the realm of hypertext narrative. You should create a work that pulls from their influence, but is more contemporary in design.
