@@ -6,8 +6,12 @@ permalink: /assignment-5/
 
 # External CSS
 
-Modify a currently existing .html page that you have created by implementing an external .css stylesheet. Move all of that page (or pages) css into an external stylesheet and then link that .css file back to your .html page. 
+Choose an existing .html page that you have already created (hello world, your index, image gallery...) and design a css style for that page. 
 
-Post this exercise to your assignment portal as a **new link** indicating that the page has an external stylesheet attached. Submit the url on Edmodo.
+1. Draw a rough wireframe sketch of the design you intend to implement. 
+
+2. Implement your design using an external .css stylesheet that your .html page is linked to. 
+
+Post this exercise to your assignment portal as a **new link** indicating that the page has a new external stylesheet attached. Submit your wireframe sketch the url of your page on Edmodo.
 
 ####  **Assignment 5 is due before class on FEB 15th**
