@@ -32,6 +32,9 @@ This page will contain a collection of links and learning resources to help you 
 + [HTML5 Doctor](http://html5doctor.com/)
 + [HTML Essential Training](http://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html)
 
+# IMAGES / GRAPHICS
++ [Know Your File Types](http://lifehacker.com/learn-when-to-use-jpeg-gif-or-png-with-this-graphic-1669336151)
+
 # CSS
 + [CSS Fundamentals](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)
 + [MDN Getting Started with CSS Tutorials](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
