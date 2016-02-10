@@ -46,3 +46,9 @@ This page will contain a collection of links and learning resources to help you 
 + [Brackets](http://brackets.io/) (OSX, Windows)
 + [Notepad++](https://notepad-plus-plus.org/) (Windows)
 
+
+# COPYRIGHT / CREATIVE COMMONS / FAIR USE
++ [Creative Commons Licenses](http://creativecommons.org/licenses)
++ [Copyright & Fair Use of Images](http://libguides.mit.edu/usingimages)
++ [Flickr](https://www.flickr.com/creativecommons/)
+
