@@ -40,7 +40,7 @@ February 3rd - css layouts, boxes, grids - follow along with [these examples](ht
 # Week 5
 February 8th - css review, in-class work time
 
-February 10th - wireframes, web design, graphics, optimization
+[February 10th](/web-spring-16/class-8) - wireframes, web design, graphics, optimization
 
 + **Due: [Project 1, Hypertext Narrative](/web-spring-16/project-1)**
 
