@@ -54,10 +54,11 @@ February 15th - web design
 February 17th - psd comps for web
 
 + **Watch: [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)**
-+ **Due: Assignment 6, Website Design Review**
 
 # Week 7
 February 22rd - web design and development
+
++ **Due: [Assignment 6, Website Design Review](/web-spring-16/assignment-6)**
 
 February 24th - css transformations and transitions
 
