@@ -61,8 +61,6 @@ February 22rd - web design and development
 
 February 24th - css transformations and transitions
 
-+ **DUE: Project 2, CSS Reskin**
-
 # Week 8
 February 29th - responsive web design
 
@@ -78,6 +76,7 @@ March 9th - midterm test and in-class work time <br>
 
 March 14th - midterm critique
 
++ **DUE: [Project 2, CSS Reskin](/web-spring-16/project-2)**
 + **DUE: Project 3, Net Art / Self Portrait**
 
 March 16th - midterm critique
