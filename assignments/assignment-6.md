@@ -8,7 +8,7 @@ permalink: /assignment-6/
 
 Visit [The Webby Awards](http://webbyawards.com/) and write a brief review of a site which you feel is the most interesting, groundbreaking, and innovative. Consider aspects of style, design, concept, message, navigation and usability when writing your response. 
 
-Your writeup should be approximately one paragraph in length or approximately 150-200 words. 
+Your writeup should be one paragraph in length or approximately 150-200 words. 
 
 Post your response to a new .html page and link to that page from your assignment portal. Submit the link on Edmodo.
 
