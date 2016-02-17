@@ -18,7 +18,7 @@ This page contains links to the web portals of all students enrolled in the clas
 [Alex Mackie](http://creative.colorado.edu/~alma4388/web)<br>
 [Brittaney Martell](http://creative.colorado.edu/~brma9976/web)<br>
 [Shane Millard](http://creative.colorado.edu/~shmi9037/web)<br>
-Ryan O'Dea<br>
+[Ryan O'Dea](http://creative.colorado.edu/~ryod4660/web/)<br>
 [Bryan O'Hagan](http://creative.colorado.edu/~broh8605/web)<br>
 [Tyler Porteous](http://creative.colorado.edu/~typo6355/web)<br>
 [Kimberly Preston](http://creative.colorado.edu/~kipr2395/web)<br>
