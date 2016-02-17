@@ -57,6 +57,7 @@ February 17th - css layouts, web design & development - follow along on with [de
 February 22rd - psd comps
 
 + **Due: [Assignment 6, Website Design Review](/web-spring-16/assignment-6)**
++ **Read: [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)**
 + **Watch: [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)**
 
 February 24th - css transformations and transitions
