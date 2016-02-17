@@ -51,14 +51,13 @@ February 15th - css review, work-time
 + **Due: [Assignment 5, External CSS](/web-spring-16/assignment-5)**
 + Extra Credit: [Bio-Art, Video Mapping & HCI](/web-spring-16/extracredit-1)
 
-February 17th - psd comps for web
-
-+ **Watch: [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)**
+February 17th - css layouts, web design & development - follow along on with [demo-2-17](https://github.com/coloringchaos/atls2200-examples)
 
 # Week 7
-February 22rd - web design and development
+February 22rd - psd comps
 
 + **Due: [Assignment 6, Website Design Review](/web-spring-16/assignment-6)**
++ **Watch: [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)**
 
 February 24th - css transformations and transitions
 
