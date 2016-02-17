@@ -41,6 +41,7 @@ This page will contain a collection of links and learning resources to help you 
 + [CSS Snippets on CSS Tricks](https://css-tricks.com/snippets/)
 + [CSS on Quirks Mode](http://www.quirksmode.org/css/)
 + [CSS3 Generator](http://css3generator.com/)
++ [CSS Positioning Examples](http://alistapart.com/article/css-positioning-101)
 
 # CODE EDITORS
 + [Sublime Text 2](http://www.sublimetext.com/) (OSX, Windows, Linux)

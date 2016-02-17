@@ -45,7 +45,7 @@ February 8th - css review, in-class work time
 + **Due: [Project 1, Hypertext Narrative](/web-spring-16/project-1)**
 
 # Week 6
-February 15th - web design
+February 15th - css review, work-time
 
 + **Read: Duckett HTML & CSS: chapters 10-17 (read 17 first)**
 + **Due: [Assignment 5, External CSS](/web-spring-16/assignment-5)**
