@@ -51,24 +51,28 @@ February 15th - css review, work-time
 + **Due: [Assignment 5, External CSS](/web-spring-16/assignment-5)**
 + Extra Credit: [Bio-Art, Video Mapping & HCI](/web-spring-16/extracredit-1)
 
-February 17th - css layouts, web design & development - follow along on with [demo-2-17](https://github.com/coloringchaos/atls2200-examples)
+February 17th - css layouts, web design & responsive media - follow along on with [demo-2-17](https://github.com/coloringchaos/atls2200-examples)
 
 # Week 7
-February 22rd - psd comps
+February 22rd - css layouts, psd comps
 
 + **Due: [Assignment 6, Website Design Review](/web-spring-16/assignment-6)**
 + **Read: [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)**
-+ **Watch: [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)**
++ **Watch: [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)** - first login at [lynda.colorado.edu](http://lynda.colorado.edu/) then click on the link to the video
 
-February 24th - css transformations and transitions
+February 24th - psd comps
 
 # Week 8
 February 29th - responsive web design
 
-March 2nd - responsive media
+***Extra Credit Opportunity - Natalie Jeremijenko in ENVD 134 at 5:47pm***
+
+March 2nd - css transformations and transitions 
 
 # Week 9
 March 7th - review
+
++ Extra Credit: [Natalie Jeremijenko](/web-spring-16/extracredit-2)
 
 March 9th - midterm test and in-class work time <br>
 ***IN CLASS ASSESSMENT: Midterm Test***

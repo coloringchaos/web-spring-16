@@ -24,7 +24,7 @@ This page contains links to the web portals of all students enrolled in the clas
 [Kimberly Preston](http://creative.colorado.edu/~kipr2395/web)<br>
 [Shelby Pumphrey](http://creative.colorado.edu/~shpu9657/web)<br>
 [Ariel Riggan](http://creative.colorado.edu/~arri8127/web)<br>
-[Lily Summers](http://creative.colorado.edu/~lisu6207/web)<br>
+[Lily Sumners](http://creative.colorado.edu/~lisu6207/web)<br>
 [Alex Truesdale](http://creative.colorado.edu/~altr7532/web)<br>
 [Barrett Vickery](http://creative.colorado.edu/~bavi4882/web)<br>
 
