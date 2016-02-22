@@ -54,7 +54,7 @@ February 15th - css review, work-time
 February 17th - css layouts, web design & responsive media - follow along on with [demo-2-17](https://github.com/coloringchaos/atls2200-examples)
 
 # Week 7
-[February 22rd](/web-spring-16/class-12) - css layouts, responsive web design
+[February 22rd](/web-spring-16/class-12) - css layouts, responsive web design - follow along with [demo-2-22](https://github.com/coloringchaos/atls2200-examples)
 
 + **Due: [Assignment 6, Website Design Review](/web-spring-16/assignment-6)**
 + **Read: [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)**
