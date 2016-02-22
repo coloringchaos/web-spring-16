@@ -85,7 +85,7 @@ March 9th - midterm test and in-class work time <br>
 March 14th - midterm critique
 
 + **DUE: [Project 2, CSS Reskin](/web-spring-16/project-2)**
-+ **DUE: Project 3, Net Art / Self Portrait**
++ **DUE: [Project 3, Self Portrait](/web-spring-16/project-3)**
 
 March 16th - midterm critique
 
