@@ -62,7 +62,7 @@ February 17th - css layouts, web design & responsive media - follow along on wit
 
 February 24th - psd comps
 
-+ **Due: [Assignment 7, Website Design Review](/web-spring-16/assignment-7)**
++ **Due: [Assignment 7, Mobile First / CSS Media Query](/web-spring-16/assignment-7)**
 + **Finish Watching [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)**
 
 # Week 8
