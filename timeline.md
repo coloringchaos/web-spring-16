@@ -54,7 +54,7 @@ February 15th - css review, work-time
 February 17th - css layouts, web design & responsive media - follow along on with [demo-2-17](https://github.com/coloringchaos/atls2200-examples)
 
 # Week 7
-February 22rd - css layouts, psd comps
+February 22rd - css layouts, responsive web design
 
 + **Due: [Assignment 6, Website Design Review](/web-spring-16/assignment-6)**
 + **Read: [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)**
@@ -62,8 +62,11 @@ February 22rd - css layouts, psd comps
 
 February 24th - psd comps
 
++ **Due: [Assignment 7, Website Design Review](/web-spring-16/assignment-7)**
++ **Finish Watching [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)**
+
 # Week 8
-February 29th - responsive web design
+February 29th - psd comps
 
 ***Extra Credit Opportunity - Natalie Jeremijenko in ENVD 134 at 5:47pm***
 
