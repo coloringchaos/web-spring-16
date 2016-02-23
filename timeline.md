@@ -40,7 +40,7 @@ February 3rd - css layouts, boxes, grids - follow along with [these examples](ht
 # Week 5
 February 8th - css review, in-class work time
 
-[February 10th](/web-spring-16/class-8) - wireframes, web design, graphics, optimization
+February 10th - wireframes, web design, graphics, optimization
 
 + **Due: [Project 1, Hypertext Narrative](/web-spring-16/project-1)**
 
@@ -51,22 +51,24 @@ February 15th - css review, work-time
 + **Due: [Assignment 5, External CSS](/web-spring-16/assignment-5)**
 + Extra Credit: [Bio-Art, Video Mapping & HCI](/web-spring-16/extracredit-1)
 
-February 17th - css layouts, web design & responsive media - follow along on with [demo-2-17](https://github.com/coloringchaos/atls2200-examples)
+February 17th - css layouts, web design & responsive media - follow along with [demo-2-17](https://github.com/coloringchaos/atls2200-examples)
 
 # Week 7
-[February 22rd](/web-spring-16/class-12) - css layouts, responsive web design - follow along with [demo-2-22](https://github.com/coloringchaos/atls2200-examples)
+[February 22rd](/web-spring-16/css-positioning) - css layouts, responsive web design - follow along with [demo-2-22](https://github.com/coloringchaos/atls2200-examples)
 
 + **Due: [Assignment 6, Website Design Review](/web-spring-16/assignment-6)**
 + **Read: [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)**
 + **Watch: [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)** - first login at [lynda.colorado.edu](http://lynda.colorado.edu/) then click on the link to the video
 
-February 24th - psd comps
+[February 24th](/web-spring-16/psd-wireframing) - psd grids & wireframing
 
 + **Due: [Assignment 7, Mobile First / CSS Media Query](/web-spring-16/assignment-7)**
 + **Finish Watching [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)**
 
 # Week 8
 February 29th - psd comps
+
++ **Due: [Assignment 8, Self Portrait Wireframing](/web-spring-16/assignment-8)**
 
 ***Extra Credit Opportunity - Natalie Jeremijenko in ENVD 134 at 5:47pm***
 

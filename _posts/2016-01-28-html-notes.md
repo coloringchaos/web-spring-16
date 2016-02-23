@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HTML NOTES"
+title:  "HTML Notes"
 date:   2016-01-24
 categories: notes
 permalink: html-notes

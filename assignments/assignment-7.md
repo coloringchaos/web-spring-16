@@ -12,5 +12,5 @@ Check your page on a mobile browser - does it appear to be optimized for mobile?
 
 You may reference the example we did in class, but you should build the page from scratch (with different class names, etc.).
 
-####  **Assignment 6 is due before class on FEB 24th**
+####  **Assignment 7 is due before class on FEB 24th**
 
