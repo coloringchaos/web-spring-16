@@ -19,3 +19,4 @@ A few of the CSS grid techniques used by developers:
 
 
 [1280px Wireframing Grid Template (PSD)](/web-spring-16/resources/1280-grid-template.psd) - click to download
+[Images for Restaurant Design](/web-spring-16/resources/images.zip) - click to download
