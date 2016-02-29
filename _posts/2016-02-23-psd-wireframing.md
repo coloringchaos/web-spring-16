@@ -12,6 +12,8 @@ permalink: psd-wireframing
 
 [Images for Restaurant Design](/web-spring-16/resources/assets.zip) - click to download
 
+[Wireframe Mockup](/web-spring-16/resources/wireframe-mockup.psd) - click to download
+
 A few of the CSS grid techniques used by developers:
 
 + [960.gs](http://960.gs/)
