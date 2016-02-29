@@ -66,7 +66,7 @@ February 17th - css layouts, web design & responsive media - follow along with [
 + **Finish Watching [Photoshop CC for Web Design](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Web-Design/145211-2.html)**
 
 # Week 8
-February 29th - psd comps
+[February 29th](/web-spring-16/psd-wireframing) - psd comps
 
 + **Due: [Assignment 8, Self Portrait Wireframing](/web-spring-16/assignment-8)**
 
