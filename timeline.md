@@ -72,7 +72,7 @@ February 17th - css layouts, web design & responsive media - follow along with [
 
 ***Extra Credit Opportunity - Natalie Jeremijenko in ENVD 134 at 5:47pm***
 
-March 2nd - css transformations and transitions - [psd comp quiz answers](/web-spring-16/resources/web-psd-vid-quiz.pdf )
+March 2nd - css transformations and transitions - [psd web design quiz answers](/web-spring-16/resources/web-psd-vid-quiz.pdf )
 
 # Week 9
 March 7th - review
