@@ -97,23 +97,25 @@ March 16th - midterm critique
 *March 23rd - NO CLASS*
 
 # Week 12
-March 28th - javascript
+March 28th - intro to javascript
 
-March 30th - javascript
++ **READ: [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)**
+
+March 30th - discussion + javascript + the document object model (dom)
 
 # Week 13
-April 4th - javascript
+April 4th - p5js
 
-April 6th - javascript
+April 6th - p5js
 
-+ **DUE: Project 4**
+<!-- + **DUE: Project 4** -->
 
 # Week 14
 April 11th - javascript
 
 April 13th - javascript
 
-+ **DUE: Project 5**
+<!-- + **DUE: Project 5** -->
 
 # Week 15
 April 18th - APIs
@@ -123,7 +125,7 @@ April 20th - web frameworks
 # Week 16
 April 25th - review
 
-+ **DUE: Project 6**
+<!-- + **DUE: Project 6** -->
 
 April 27th - review and in-class work time<br>
 ***IN CLASS ASSESSMENT: Web Practicum***

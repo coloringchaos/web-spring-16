@@ -42,6 +42,7 @@ This page will contain a collection of links and learning resources to help you 
 + [CSS on Quirks Mode](http://www.quirksmode.org/css/)
 + [CSS3 Generator](http://css3generator.com/)
 + [CSS Positioning Examples](http://alistapart.com/article/css-positioning-101)
++ [CSS Transitions & Transformations](http://www.lynda.com/Dreamweaver-tutorials/CSS-Transitions-Transforms/101072-2.html)
 
 # CODE EDITORS
 + [Sublime Text 2](http://www.sublimetext.com/) (OSX, Windows, Linux)
