@@ -99,7 +99,7 @@ March 16th - midterm critique
 # Week 12
 March 28th - intro to javascript
 
-+ **READ: [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)**
++ **READ: [Archiving the Web](http://www.newyorker.com/magazine/2015/01/26/cobweb) **
 
 March 30th - discussion + javascript + the document object model (dom)
 
@@ -107,6 +107,8 @@ March 30th - discussion + javascript + the document object model (dom)
 April 4th - p5js
 
 April 6th - p5js
+
++ **READ: [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)**
 
 <!-- + **DUE: Project 4** -->
 
