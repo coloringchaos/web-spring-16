@@ -12,3 +12,7 @@ baseurl: '/web-spring-16'
 markdown: kramdown
 parse_block_html: true
 permalink: /:title
+
+# Make redcarpet behave like GitHub Flavored Markdown 
+# redcarpet: 
+# extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]

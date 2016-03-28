@@ -99,23 +99,30 @@ March 16th - midterm critique
 # Week 12
 March 28th - intro to javascript
 
-+ **READ: [Archiving the Web](http://www.newyorker.com/magazine/2015/01/26/cobweb) **
+March 30th - reading discussion, javascript
 
-March 30th - discussion + javascript + the document object model (dom)
++ **Read: [Archiving the Web](http://www.newyorker.com/magazine/2015/01/26/cobweb)**
++ **Read: Duckett, Javascript & Jquery: chapters 1 and 2**
 
 # Week 13
-April 4th - p5js
+April 4th - javascript, the document object model (DOM)
+
++ **Due: [Assignment 9, Javascript Messages](/web-spring-16/assignment-9)**
++ **Watch: [Javascript for Web Designers](https://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html)** - first login at [lynda.colorado.edu](http://lynda.colorado.edu/) then click on the link to the video
 
 April 6th - p5js
 
-+ **READ: [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)**
++ **Read: [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)**
++ **Watch: [Shiffman Videos]()**
 
 <!-- + **DUE: Project 4** -->
 
 # Week 14
-April 11th - javascript
+April 11th - p5js
 
-April 13th - javascript
++ **Due: [Assignment 10, p5 Primatives](/web-spring-16/assignment-10)**
+
+April 13th - p5js
 
 <!-- + **DUE: Project 5** -->
 
@@ -133,6 +140,10 @@ April 27th - review and in-class work time<br>
 ***IN CLASS ASSESSMENT: Web Practicum***
 
 # FINALS SCHEDULE
+
++ **DUE: [Project 4, Interaction](/web-spring-16/project-4)**
+
+
 Section 010 - Monday, May 2, 1:30-4:00pm
 
 Section 020 - Thursday, May 5, 4:30-7:00pm
