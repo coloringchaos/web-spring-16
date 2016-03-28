@@ -6,6 +6,8 @@ permalink: /resources/
 
 This page will contain a collection of links and learning resources to help you in this class. None of these are required readings, just helpful references. If you find any good links, or feel this page should change in some way, please let me know. I will continually be adding to and updating this page over the course of the semester.
 
+# [INSPIRATION](/web-spring-16/inspiration)
+
 # GENERAL
 + [Tam Tutor Hours / Equipment Checkout](http://tam.colorado.edu/)
 + [ATLAS](http://atlas.colorado.edu/)
@@ -56,4 +58,8 @@ This page will contain a collection of links and learning resources to help you 
 + [Creative Commons Licenses](http://creativecommons.org/licenses)
 + [Copyright & Fair Use of Images](http://libguides.mit.edu/usingimages)
 + [Flickr](https://www.flickr.com/creativecommons/)
+
+# JAVASCRIPT
++ [Javascript for Web Designers](https://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html)
+
 
