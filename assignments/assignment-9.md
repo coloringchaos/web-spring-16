@@ -16,6 +16,8 @@ Explore using the following functions:
 
 `console.log();`
 
+As an additional challenge, try using the [HTML DOM innerHTML Property](http://www.w3schools.com/jsref/prop_html_innerhtml.asp).
+
 
 ####  **Assignment 9 is due before class on APRIL 4th**
 
