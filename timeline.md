@@ -72,7 +72,7 @@ February 17th - css layouts, web design & responsive media - follow along with [
 
 ***Extra Credit Opportunity - Natalie Jeremijenko in ENVD 134 at 5:47pm***
 
-March 2nd - css transformations and transitions - [psd web design quiz answers](/web-spring-16/resources/psd-quiz-answers.pdf )
+March 2nd - css transformations and transitions - [psd web design quiz answers](/web-spring-16/resources/psd-quiz-answers.pdf)
 
 # Week 9
 March 7th - review
@@ -97,7 +97,7 @@ March 16th - midterm critique
 *March 23rd - NO CLASS*
 
 # Week 12
-March 28th - intro to javascript
+[March 28th](/web-spring-16/js-intro) - intro to javascript
 
 March 30th - reading discussion, javascript
 
@@ -112,10 +112,7 @@ April 4th - javascript, the document object model (DOM)
 
 April 6th - p5js
 
-+ **Read: [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)**
 + **Watch: [Shiffman Videos]()**
-
-<!-- + **DUE: Project 4** -->
 
 # Week 14
 April 11th - p5js
@@ -124,25 +121,26 @@ April 11th - p5js
 
 April 13th - p5js
 
-<!-- + **DUE: Project 5** -->
-
 # Week 15
-April 18th - APIs
+April 18th - web development
 
-April 20th - web frameworks
+April 20th - web development
 
 # Week 16
 April 25th - review
 
-<!-- + **DUE: Project 6** -->
++ **Extra Credit Due: [Extra Credit #3](/web-spring-16/extracredit-3)**
++ **Extra Credit Due: [Extra Credit #4](/web-spring-16/extracredit-4)**
 
 April 27th - review and in-class work time<br>
 ***IN CLASS ASSESSMENT: Web Practicum***
 
 # FINALS SCHEDULE
 
-+ **DUE: [Project 4, Interaction](/web-spring-16/project-4)**
-
+Our scheduled final exam time will be used for an in-class critique of your final three projects. 
++ **DUE: [Project 4, Responsive Narrative](/web-spring-16/project-4)**
++ **DUE: [Project 5, p5 Interaction ](/web-spring-16/project-5)**
++ **DUE: [Project 6, Personal Site](/web-spring-16/project-6)**
 
 Section 010 - Monday, May 2, 1:30-4:00pm
 
