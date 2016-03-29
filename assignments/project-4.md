@@ -1,38 +1,23 @@
 ---
 layout: page
-title: Web Interaction
+title: Responsive Narrative
 permalink: /project-4/
 ---
-<!-- 
-OPTION 1: 
 
-Use Javascript and p5js to create a 
-Create a drawing 
+Create a single ***responsive*** web page that tells a "multiple page" story by using @media queries to display and hide content based on the width of a browser window. Each individual "frame" should tell a part of the narrative. 
+<!-- The background image should cycle through a stop motion or flipbook style animation.  -->
 
-Utilize the Canvas to create 
+You must also use javascript events to add interactivity to the project. You might hide and show hidden messages, change the color or content of something, or create animated effects.
 
-You may use any framework you want for this project, although I highly encourage you to explore p5js. 
-
-Use simple geometries and 
+The content can be a creative short story, topic, or idea of your own. All graphics and imagery must be original.
 
 
+# Parameters
++ only one html page in length
++ a minimum of 3 javascript events
++ build and implement an external css stylesheet
++ validate both the html and css
++ all content (text, graphics, imagery) must be original
 
-___ 
-<br>
-
-
-OPTION 2
-
-Responsive Story
-
-Create single RESPONSIVE web page that tells a "multiple page" story by using @media queries to display and hide content based on the width of a browser window. The content can be a creative short story, topic, or idea of your own. All graphics and imagery must be original.
-
-
-
-
-
-Create a sketch that includes (all of these):
-
-One element controlled by the mouse.
-One element that changes over time, independently of the mouse.
-One element that is different every time you run the sketch. -->
+# Evaluation Criteria
+20% each: Conceptual Thought, Originality & Aesthetic Design, Code, Use of Media, Interactivity
