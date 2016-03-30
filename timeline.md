@@ -138,6 +138,7 @@ April 27th - review and in-class work time<br>
 # FINALS SCHEDULE
 
 Our scheduled final exam time will be used for an in-class critique of your final three projects. 
+
 + **DUE: [Project 4, Responsive Narrative](/web-spring-16/project-4)**
 + **DUE: [Project 5, p5 Interaction ](/web-spring-16/project-5)**
 + **DUE: [Project 6, Personal Site](/web-spring-16/project-6)**
