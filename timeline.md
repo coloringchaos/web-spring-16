@@ -105,14 +105,16 @@ March 30th - reading discussion, javascript
 + **Read: Duckett, Javascript & Jquery: chapters 1 and 2**
 
 # Week 13
-April 4th - javascript, the document object model (DOM)
+April 4th - NO CLASS - watch these 3 videos videos on your own: [What is p5.js](https://vimeo.com/channels/learningp5js/137979313), [Basics of drawing](https://vimeo.com/channels/learningp5js/137979314), and [Variables in p5.js](https://vimeo.com/channels/learningp5js/138327548) *(there will be a quiz on the videos on wednesday)*
 
+<!-- April 4th - javascript, the document object model (DOM)
+ -->
 + **Due: [Assignment 9, Javascript Messages](/web-spring-16/assignment-9)**
 + **Watch: [Javascript for Web Designers](https://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html)** - first login at [lynda.colorado.edu](http://lynda.colorado.edu/) then click on the link to the video
 
 April 6th - p5js
 
-+ **Watch: [Shiffman Videos]()**
+<!-- + **Watch: [Shiffman Videos]()** -->
 
 # Week 14
 April 11th - p5js
