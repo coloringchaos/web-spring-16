@@ -11,6 +11,8 @@ You must also use javascript events to add interactivity to the project. You mig
 
 The content can be a creative short story, topic, or idea of your own. All graphics and imagery must be original.
 
+[This](http://creative.colorado.edu/~aljo7103/web/responsive-story.html) project from a previous semester of Web is a great example / reference for your project.
+
 
 # Parameters
 + only one html page in length
