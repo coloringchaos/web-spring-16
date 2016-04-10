@@ -12,4 +12,4 @@ Create a simple interactive drawing experience using p5js. Your interactive page
 
 Your challenge with this project is to create something engaging that the user would continue to use for more than a few seconds. Your project can be abstract, the important thing is that it is visually interesting and interactive.
 
-Visit [p5js.org](http://p5js.org/) for examples and references. 
+Visit [p5js.org](http://p5js.org/) for examples and references.

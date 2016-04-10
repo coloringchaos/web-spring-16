@@ -123,8 +123,12 @@ April 11th - p5js
 
 April 13th - p5js
 
++ **Due: [Assignment 11, Project 6 Creative Brief](/web-spring-16/assignment-11)**
+
 # Week 15
 April 18th - web development
+
++ **Due: [Assignment 12, Project 6 Creative Brief (Updated)](/web-spring-16/assignment-11)**
 
 April 20th - web development
 
