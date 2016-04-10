@@ -126,14 +126,14 @@ April 13th - p5js
 + **Due: [Assignment 11, Project 6 Creative Brief](/web-spring-16/assignment-11)**
 
 # Week 15
-April 18th - web development
+April 18th - web development + domain names & web hosting
 
 + **Due: [Assignment 12, Project 6 Creative Brief (Updated)](/web-spring-16/assignment-11)**
 
-April 20th - web development
+April 20th - web development + SEO and analytics
 
 # Week 16
-April 25th - review
+April 25th - review & in-class work time
 
 + **Extra Credit Due: [Extra Credit #3](/web-spring-16/extracredit-3)**
 + **Extra Credit Due: [Extra Credit #4](/web-spring-16/extracredit-4)**

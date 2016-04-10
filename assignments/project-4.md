@@ -23,3 +23,7 @@ The content can be a creative short story, topic, or idea of your own. All graph
 
 # Evaluation Criteria
 20% each: Conceptual Thought, Originality & Aesthetic Design, Code, Use of Media, Interactivity
+
+*Project 4 is worth 10% of your grade.*
+
+####  **Project 4 is due prior to the scheduled final exam**
