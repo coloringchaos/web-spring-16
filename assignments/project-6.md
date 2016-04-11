@@ -17,7 +17,7 @@ Ideas for specific sections of your website could include (but are not limited t
 
 # Parameters
 + creative brief - [due 4/13](/web-spring-16/assignment-11)
-+ wireframes & color palette - [due 4/18](/web-spring-16/assignment-11)
++ wireframes & color palette - [due 4/18](/web-spring-16/assignment-12)
 + html5 structure (header, nav, section, article, aside, footer, headings, paragraphs, lists, etc.)
 + universal style or theme (single external stylesheet) -bare minimal is not a theme
 + original optimized graphics and imagery

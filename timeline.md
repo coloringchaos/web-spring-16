@@ -128,7 +128,7 @@ April 13th - p5js
 # Week 15
 April 18th - web development + domain names & web hosting
 
-+ **Due: [Assignment 12, Project 6 Creative Brief (Updated)](/web-spring-16/assignment-11)**
++ **Due: [Assignment 12, Project 6 Creative Brief (Updated)](/web-spring-16/assignment-12)**
 
 April 20th - web development + SEO and analytics
 
