@@ -7,7 +7,7 @@ permalink: /syllabus/
 **Course:** ATLS 2200 <br>
 **Instructor:** Arielle Hein <br>
 **Email:** arielle.hein@colorado.edu <br>
-**Office Hours:** Thursday 12-2pm or by appointment, ATLS 225E
+**Office Hours:** Thursday 12-2pm or by appointment, ENVD 234 (BTU Lab)
 
 
 
