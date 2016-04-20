@@ -126,19 +126,19 @@ April 13th - p5js
 + **Due: [Assignment 11, Project 6 Creative Brief](/web-spring-16/assignment-11)**
 
 # Week 15
-April 18th - web development demo - [psd comp](/web-spring-16/resources/web-design-demo-comp.psd), [demo skeleton](/web-spring-16/resources/demo-skeleton.zip) and [github repo](https://github.com/coloringchaos/atls2200-examples/tree/master/web-dev-demo)
+April 18th - web development demo - [psd comp to work from](/web-spring-16/resources/web-design-demo-comp.psd), [demo skeleton](/web-spring-16/resources/demo-skeleton.zip) and [github repo](https://github.com/coloringchaos/atls2200-examples/tree/master/web-dev-demo) [example of finished site](http://creative.colorado.edu/~heinae/web/web-dev-demo/)
 
 + **Due: [Assignment 12, Project 6 Creative Brief (Updated)](/web-spring-16/assignment-12)**
 
-April 20th - web development + SEO and analytics + domain names & web hosting
+April 20th - review & in-class work time
 
 # Week 16
-April 25th - review & in-class work time
+April 25th - review + analytics, domain names & web hosting
 
 + **Extra Credit Due: [Extra Credit #3](/web-spring-16/extracredit-3)**
 + **Extra Credit Due: [Extra Credit #4](/web-spring-16/extracredit-4)**
 
-April 27th - review and in-class work time<br>
+April 27th - web practicum <br>
 ***IN CLASS ASSESSMENT: Web Practicum***
 
 # FINALS SCHEDULE
