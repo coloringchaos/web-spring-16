@@ -133,7 +133,7 @@ April 18th - web development demo - [psd comp to work from](/web-spring-16/resou
 April 20th - review + in-class work time
 
 # Week 16
-April 25th - review + analytics, domain names & web hosting
+April 25th - review + [google analytics](https://support.google.com/analytics/answer/1008080?hl=en), domain names & web hosting
 
 + **Extra Credit Due: [Extra Credit #3](/web-spring-16/extracredit-3)**
 + **Extra Credit Due: [Extra Credit #4](/web-spring-16/extracredit-4)**
