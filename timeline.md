@@ -7,14 +7,14 @@ permalink: /timeline/
 This page has a breakdown of the general content that we will cover in each class. Major project due dates are listed on this page, as are assignments, test and critique dates. This schedule is subject to change. 
 
 # Week 1
-[January 11th](/web-spring-16/class-1) - class introduction, intro to html
+January 11th - class introduction, intro to html
 
-[January 13th](/web-spring-16/class-2) - servers, FTP & VPN, html tags
+January 13th - how the internet works, servers, FTP & VPN, html tags
 
 # Week 2
 *January 18th - NO CLASS*
 
-[January 20th](/web-spring-16/class-3) - validator, html5 structure, google fonts, font awesome
+[January 20th](/web-spring-16/html-notes) - validator, html5 structure, google fonts, font awesome
 
 + **Due: [Assignment 1, Hello World](/web-spring-16/assignment-1)**
 + **Read:** [As We May Think, by Vannevar Bush](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) and [Long Live the Web, by Tim Berners-Lee](http://ariellehein.com/readings/Berners-Lee-Long-Live-The-Web.pdf)
@@ -22,7 +22,7 @@ This page has a breakdown of the general content that we will cover in each clas
 # Week 3
 *January 25th - NO CLASS*
 
-January 27th - html5 structure, html5 media, html review, introduction to css
+[January 27th](/web-spring-16/html-notes) - html5 structure, html5 media, html review, introduction to css
 
 + **Due: [Assignment 2, Assignment Portal (index.html)](/web-spring-16/assignment-2)**
 + **Read: Duckett HTML & CSS: chapters 1-5, 8**
