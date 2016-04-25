@@ -85,12 +85,12 @@ March 9th - midterm test and in-class work time <br>
 
 # Week 10
 
-March 14th - midterm critique
+March 14th - midterm critique - [name picker](http://creative.colorado.edu/~heinae/web/name-picker/)
 
 + **DUE: [Project 2, CSS Reskin](/web-spring-16/project-2)**
 + **DUE: [Project 3, Self Portrait](/web-spring-16/project-3)**
 
-March 16th - midterm critique
+March 16th - midterm critique - [name picker](http://creative.colorado.edu/~heinae/web/name-picker/)
 
 # Week 11 - SPRING BREAK
 *March 21st- NO CLASS*
