@@ -28,7 +28,7 @@ January 27th - html5 structure, html5 media, html review, introduction to css
 + **Read: Duckett HTML & CSS: chapters 1-5, 8**
 
 # Week 4
-February 1st - **handcode test**, css syntax, selectors, color
+February 1st - **html quiz**, css syntax, selectors, color
 
 + **Due: [Assignment 3, HTML Structure & Practice](/web-spring-16/assignment-3)**
 + **Watch: [CSS Fundamentals](http://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Fundamentals/80436-2.html)**
@@ -72,7 +72,8 @@ February 17th - css layouts, web design & responsive media - follow along with [
 
 ***Extra Credit Opportunity - Natalie Jeremijenko in ENVD 134 at 5:47pm***
 
-March 2nd - css transformations and transitions - [psd web design quiz answers](/web-spring-16/resources/psd-quiz-answers.pdf)
+March 2nd - css transformations and transitions
+<!-- [psd web design quiz answers](/web-spring-16/resources/psd-quiz-answers.pdf) -->
 
 # Week 9
 March 7th - review
@@ -105,12 +106,11 @@ March 30th - reading discussion, javascript
 + **Read: Duckett, Javascript & Jquery: chapters 1 and 2**
 
 # Week 13
-April 4th - NO CLASS - watch these 3 videos videos on your own: [What is p5.js](https://vimeo.com/channels/learningp5js/137979313), [Basics of drawing](https://vimeo.com/channels/learningp5js/137979314), and [Variables in p5.js](https://vimeo.com/channels/learningp5js/138327548) *(there will be a quiz on the videos on wednesday)*
+April 4th - javascript, the document object model (DOM)
 
-<!-- April 4th - javascript, the document object model (DOM)
- -->
 + **Due: [Assignment 9, Javascript Messages](/web-spring-16/assignment-9)**
-+ **Watch: [Javascript for Web Designers](https://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html)** - first login at [lynda.colorado.edu](http://lynda.colorado.edu/) then click on the link to the video
++ **Watch: [What is p5.js](https://vimeo.com/channels/learningp5js/137979313), [Basics of drawing](https://vimeo.com/channels/learningp5js/137979314), and [Variables in p5.js](https://vimeo.com/channels/learningp5js/138327548)** *(there will be a quiz on the videos on wednesday)*
+<!-- + **Watch: [Javascript for Web Designers](https://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html)** - first login at [lynda.colorado.edu](http://lynda.colorado.edu/) then click on the link to the video -->
 
 April 6th - p5js
 
@@ -130,7 +130,7 @@ April 18th - web development demo - [psd comp to work from](/web-spring-16/resou
 
 + **Due: [Assignment 12, Project 6 Creative Brief (Updated)](/web-spring-16/assignment-12)**
 
-April 20th - review & in-class work time
+April 20th - review + in-class work time
 
 # Week 16
 April 25th - review + analytics, domain names & web hosting

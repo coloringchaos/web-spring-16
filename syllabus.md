@@ -41,8 +41,8 @@ There will be opportunities to earn extra credit throughout the semester. The co
 
 
 # FINALS SCHEDULE
-**Section 010 - Monday, May 2, 1:30-4:00pm <br>
-Section 020 - Thursday, May 5, 4:30-7:00pm**
+**Section 010 -  Thursday, May 5, 4:30-7:00pm<br>
+Section 020 - Monday, May 2, 1:30-4:00pm**
 
 
 # REQUIRED RESOURCES

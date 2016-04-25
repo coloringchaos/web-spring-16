@@ -17,8 +17,8 @@ This page contains links to the web portals of all students enrolled in the clas
 [Paige Keller](http://creative.colorado.edu/~pake0575/web)<br>
 [Alex Mackie](http://creative.colorado.edu/~alma4388/web)<br>
 [Brittaney Martell](http://creative.colorado.edu/~brma9976/web)<br>
-[Shane Millard](http://creative.colorado.edu/~shmi9037/web)<br>
-[Ryan O'Dea](http://creative.colorado.edu/~ryod4660/web/)<br>
+<!-- [Shane Millard](http://creative.colorado.edu/~shmi9037/web)<br> -->
+<!-- [Ryan O'Dea](http://creative.colorado.edu/~ryod4660/web/)<br> -->
 [Bryan O'Hagan](http://creative.colorado.edu/~broh8605/web)<br>
 [Tyler Porteous](http://creative.colorado.edu/~typo6355/web)<br>
 [Kimberly Preston](http://creative.colorado.edu/~kipr2395/web)<br>
@@ -33,7 +33,7 @@ This page contains links to the web portals of all students enrolled in the clas
 # Section 020 (11-12:50pm)
 [Mallory Allen](http://creative.colorado.edu/~maal3296/web)<br>
 [Carolyn Castanon](http://creative.colorado.edu/~caca1257/web)<br>
-[Jimmy Cordova](http://creative.colorado.edu/~loco4851/web)<br>
+<!-- [Jimmy Cordova](http://creative.colorado.edu/~loco4851/web)<br> -->
 [Morgan Edwards](http://creative.colorado.edu/~moed1451/web)<br>
 [Jordan Halbleib](http://creative.colorado.edu/~joha3547/web)<br>
 [Sam Henry](http://creative.colorado.edu/~sahe1180/web)<br>
@@ -48,5 +48,5 @@ This page contains links to the web portals of all students enrolled in the clas
 [Austin Mitsch](http://creative.colorado.edu/~aumi5427/web)<br>
 [Alex Roy](http://creative.colorado.edu/~alro4560/web)<br>
 [Nick Tuttle](http://creative.colorado.edu/~nitu5102/web)<br>
-[Natalie Walter](http://creative.colorado.edu/~nawa0900/web)<br>
+<!-- [Natalie Walter](http://creative.colorado.edu/~nawa0900/web)<br> -->
 
