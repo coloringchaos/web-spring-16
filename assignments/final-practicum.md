@@ -8,11 +8,11 @@ permalink: /final/
 
 For this WEB practicum, you must create a web page based on the provided photoshop composition. You will be evaluated on the completeness of your site, and how accurately you translated photoshop the design. 
 
-You may use Google, your notes and any other example code as a reference for this practicum. You may NOT get help (via email, text, etc) from any other person. 
+You may use Google, your notes and any other example code as a reference for this practicum. You may NOT get help (via email, text, etc) from any other person. The work must be your own.
 
 Follow these instructions to get started:
 
-1. Download [this]() file which includes 1) a .psd composition, 2) an assets folder, and 3) a html skeleton to work from. 
+1. Download [this](/web-spring-16/resources/PRACTICUM.zip) file which includes 1) a .psd composition, 2) an assets folder, and 3) a html skeleton to work from. 
 
 2. Once you download the .zip, double click on it to unpack it. 
 
